@@ -1,0 +1,11 @@
+name3 phone:8765432198 email:name3@domain.com
+
+ name1,9123456789,babu123@gmail.com
+
+name2,9123456789,babu123@gmail.com
+
+name3,9123456719,babu1234@gmail.com
+
+name4,9676965949,kanchibabu.m@gmail.com
+
+name5,9123456189,babu1236@gmail.com
